@@ -1,0 +1,2336 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MlDomain xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label>trial intent set</label>
+    <mlIntents>
+        <developerName>Are_ABC_stores_open_on_Sundays_or_holidays</developerName>
+        <label>Are ABC stores open on Sundays or holidays?</label>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Are ABC stores open on Sundays?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>What is the ABC store&apos;s holiday schedule?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Will the liquor store be open on Christmas Day?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Are ABC stores open on federal holidays?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Can I shop at an ABC store on Easter Sunday?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>What are the store hours for Thanksgiving?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Is the ABC store open on Memorial Day?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Will the ABC store be closed on Labor Day?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Are you open on the 4th of July?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>What&apos;s the policy for opening on religious holidays?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Do ABC stores operate on Veterans Day?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>I need to know if the store is open on Columbus Day.</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Can you tell me if ABC stores have Sunday hours?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>What holidays do ABC stores observe by closing?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Will the store be open on New Year&apos;s Day?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>I want to check the holiday opening hours.</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Are there special hours for holidays?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Do you close for all national holidays?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Is there any Sunday that ABC stores are open?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Please list the holidays that ABC stores are closed.</utterance>
+        </mlIntentUtterances>
+    </mlIntents>
+    <mlIntents>
+        <developerName>Can_I_purchase_spirituous_liquor_in_grocery_stores_or_other_retail_outlets</developerName>
+        <label>Can I purchase spirituous liquor in grocery stores or other retail outlets?</label>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Is whiskey available for purchase in a grocery store?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Can I buy liquor in a grocery store in North Carolina?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Are spirits like vodka or whiskey sold at supermarkets?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Does Costco or Sam&apos;s Club sell hard liquor here?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Where can I buy tequila besides an ABC store?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Is it possible to purchase gin at a convenience store?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Why can&apos;t I find rum at the local supermarket?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Are spirituous liquors sold anywhere other than ABC stores?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Can I buy bourbon at a retail outlet like Target or Walmart?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Where is the sale of spirituous liquor permitted?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Do convenience stores carry any hard liquor?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>I&apos;m looking for vodka, can I get it at the grocery?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Are there any non-state-run stores that sell spirits?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Can I buy a bottle of gin from a local market?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Is the sale of liquor restricted to ABC stores only?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>I want to buy whiskey, do I have to go to an ABC store?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Can I find tequila for sale at my local supermarket?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Does my grocery store sell any type of bourbon?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Why don&apos;t I see rum on the shelves at convenience stores?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Are spirits sold at wholesale clubs like Costco?</utterance>
+        </mlIntentUtterances>
+    </mlIntents>
+    <mlIntents>
+        <developerName>How_can_I_add_additional_permits_when_I_already_hold_one_ABC_permit</developerName>
+        <label>How can I add additional permits when I already hold one ABC permit?</label>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Can I get a temporary permit while holding a permanent one?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>I want to apply for a different kind of license, what do I do?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>How do I cancel one of my existing permits?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Is it easier to get a second permit?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Do I need to go through the full background check again?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>What&apos;s the fee for getting a second permit?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>I already have a permit, I need another one.</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>What are the requirements for holding multiple ABC permits?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>What is the cost to add an additional permit?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>How do I add another permit to my existing one?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>What is the process for getting an additional ABC permit?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>I have one permit, how do I apply for a different type?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Can I hold multiple permits for the same location?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Is there a separate application for adding more permits?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>What happens if my application for an additional permit is denied?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Are fees for a denied additional permit refundable?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>How do I manage separate records for multiple permits?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Can I transfer one of my permits to a different location?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Is the process faster to add a permit if I already have one?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>I need to get another type of license for my business.</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>How do I apply to add a permit to my current business?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Can I have different types of permits at different locations?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>I want to add a catering permit to my restaurant license.</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>How to get multiple permits.</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>What&apos;s the fee to add a permit?</utterance>
+        </mlIntentUtterances>
+    </mlIntents>
+    <mlIntents>
+        <developerName>How_can_I_expedite_my_application</developerName>
+        <label>How can I expedite my application?</label>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>What is the process to renew my ABC permit</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>What paperwork do I need for my application</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>How do I renew my liquor license</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>I forgot to renew my permit what are my options</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Is there an application deadline I need to be aware of</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>What should I do if my application is incomplete or has an error</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Can I expedite my renewal application</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>What&apos;s the first step in getting a permit</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>How can I check the status of my renewal application</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Is there a way to track the status of my permit application</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Tell me everything I need to know to apply for a permit</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>I missed the renewal deadline</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>My permit is about to expire how do I renew it</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Where can I find the renewal form for my license</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>What documents are needed for a permit renewal</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>What happens if my renewal is rejected or denied</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Is there a grace period for renewing an expired permit</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>What happens if my permit application is denied or rejected</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>How do I renew if my business name or location has changed</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>My renewal payment was declined what should I do</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Is there a penalty for a late renewal</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>What are the eligibility requirements for an ABC license</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Where do I apply for a license for a new business location</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>What is the deadline for renewing my permit</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Can I renew my license if I have an unpaid fine</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>How do I change the manager on my renewal application</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>I&apos;m temporarily closed do I still need to renew my permit</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>How can I get a reminder before my renewal is due</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Can I sell my business if the permit renewal is still pending</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Can I renew online</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>What do I do if my renewal has expired</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>I need to renew my license now</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Where do I go to renew</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>How can I make my renewal go faster</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>What is the process for applying for a retail ABC permit</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Can you explain the steps to get a new liquor license</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>I need to know the requirements for a permit application</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>How do I submit my application to the ABC commission</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Where can I find the application form for a retail permit</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>What documents are needed when I apply for a license</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Can I get my application processing expedited</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>How can I speed up my application review</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>I have a question about the permit application form</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Should I hire a lawyer to help with my license application</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>What are the financial requirements for obtaining a permit</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>How do I modify my application after submitting it</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Is there special training required to get a permit</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>How do I start the application process for a new license</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>I&apos;m trying to apply for a permit please help</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>How to apply for a liscence</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Can I make my application go faster</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Who do I talk to about getting a permit</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>What is the reason a permit would be denied</utterance>
+        </mlIntentUtterances>
+    </mlIntents>
+    <mlIntents>
+        <developerName>How_can_I_find_an_ABC_store_near_me</developerName>
+        <label>How can I find an ABC store near me?</label>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>How can I find the closest ABC store?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Where is the nearest ABC store to my location?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Can you help me find an ABC store nearby?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Show me a map of ABC stores in my area</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>What are the directions to the local ABC store?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>I need to find an ABC store in my city.</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Can you locate an ABC store using my zip code?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Tell me where the ABC stores are in my county.</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>I&apos;m looking for a liquor store near me.</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Find an ABC store in this zip code.</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Help me locate the nearest state-run liquor store.</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Can you show me all the stores in this city?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>What&apos;s the address of the closest ABC store?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>I need directions to an ABC store.</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Is there an ABC store locator tool?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Guide me to the nearest ABC store.</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>How do I get to the liquor store from here?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Where are the ABC stores located in this town?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Search for an ABC store in my vicinity.</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Can you pull up a map with nearby ABC stores?</utterance>
+        </mlIntentUtterances>
+    </mlIntents>
+    <mlIntents>
+        <developerName>How_can_I_place_a_special_order_for_a_product_not_available_in_my_local_ABC_stor</developerName>
+        <label>How can I place a special order for a product not available in my local ABC stor</label>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>I want to reserve a bottle of a specific liquor.</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>How do I place a special order for a liquor product?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Can I request a product that is not on the shelf?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>What is the process for ordering a hard-to-find spirit?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>I&apos;m looking for a rare or imported liquor, can you help?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>How can I order a limited-release or exclusive product?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Is it possible to pre-order a specialty barrel of whiskey?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>My local store is out-of-stock, can I place an order?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>How do I make a special request for an unavailable item?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>What are the steps to order an international liquor?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Do I need to pay a deposit for a special order?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Can I get a product that has been discontinued?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>How do special orders for approved products work?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Tell me how to order something not in the store.</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>What is the procedure for requesting a non-stocked item?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Can the store order a case of something for me?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>How do I go about ordering a rare bourbon?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>I&apos;d like to place a request for a specific imported gin.</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Can you explain the special order system?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Is there a way to purchase liquor that isn&apos;t regularly available?</utterance>
+        </mlIntentUtterances>
+    </mlIntents>
+    <mlIntents>
+        <developerName>How_can_I_renew_my_existing_ABC_permit</developerName>
+        <label>How can I renew my existing ABC permit?</label>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>How do I renew my liquor license?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>What happens if my renewal is rejected or denied?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>What is the process to renew my ABC permit?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>My permit is about to expire, how do I renew it?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Where can I find the renewal form for my license?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>What documents are needed for a permit renewal?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Can I expedite my renewal application?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Is there a grace period for renewing an expired permit?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>How do I renew if my business name or location has changed?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>My renewal payment was declined, what should I do?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>How can I check the status of my renewal application?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>What is the deadline for renewing my permit?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Is there a penalty for a late renewal?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Can I renew my license if I have an unpaid fine?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>I forgot to renew my permit, what are my options?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>How do I change the manager on my renewal application?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>I&apos;m temporarily closed, do I still need to renew my permit?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>How can I get a reminder before my renewal is due?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Can I sell my business if the permit renewal is still pending?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>What do I do if my renewal has expired?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>I need to renew my license now.</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Where do I go to renew?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>How can I make my renewal go faster?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>I missed the renewal deadline.</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Can I renew online?</utterance>
+        </mlIntentUtterances>
+    </mlIntents>
+    <mlIntents>
+        <developerName>How_do_I_apply_for_a_Commercial_Permit</developerName>
+        <label>How do I apply for a Commercial Permit?</label>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>How can I appeal if my commercial permit application is denied</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Do I need a commercial permit for my restaurant</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Tell me the steps for getting a commercial license</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>What are the insurance requirements for a commercial permit</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>What are the fees and costs associated with a commercial permit</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>I need to apply for a commercial liscense</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>How do I apply for a commercial ABC permit</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>What is the application process for a commercial permit</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Are there minimum size requirements for a commercial permit</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>What is the application deadline for a commercial permit</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>What are the location and zoning requirements for a commercial permit</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Where can I find the commercial permit application online</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Is an inspection required before getting a commercial permit</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Can I expedite my commercial permit application</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Are fingerprinting and a background check required for a commercial permit</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Are there age restrictions for holding a commercial permit</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>What kind of conviction would prevent me from getting a commercial permit</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Can a non-profit organization apply for a commercial permit</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>What are the specific requirements for a commercial permit</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>How do I fill out the commercial permit application</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>What information do I need to provide for a commercial permit</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Tell me about the commercial permit</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>What&apos;s the fee for a commercial permit</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>What is a commercial permit for</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>How is a commercial permit different from a retail one</utterance>
+        </mlIntentUtterances>
+    </mlIntents>
+    <mlIntents>
+        <developerName>How_do_I_apply_for_a_permit_for_my_one_time_event</developerName>
+        <label>How do I apply for a permit for my one-time event?</label>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>What is the application deadline for a special event permit</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>What do I need to do to get a permit for a private reception</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>What if my event is postponed or cancelled can I get a refund</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>How do I get a permit for a one-time special event</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>What are the requirements for a temporary event permit</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Can I get a liquor license for a private party like a wedding</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>What is the process to apply for a one-time permit</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Do I need a licensed bartender for my event</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Are there different rules for indoor vs outdoor events</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Can a non-profit organization get a temporary permit for a fundraiser</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>How much does a one-time permit cost</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Can I serve homemade beer or wine at my event with this permit</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Can a caterer apply for a temporary liquor permit</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>What are the rules for serving alcohol at a corporate event</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Are there transportation restrictions for alcohol for my event</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Are there venue restrictions for a one-time permit</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>How do I apply for a temporary permit for a festival</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>I&apos;m having a ticketed event what kind of permit do I need</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Can I get an extension if my event date changes</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Are there training requirements for a temporary permit</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>I need a permit for a single day</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>How to get a permit for a fundraiser</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Getting a permit for my wedding</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>What are the rules for a pop-up bar</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Can I serve liquor at my party in a private home</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>One time permit cost</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>How to get a temporary catering license for alcohol</utterance>
+        </mlIntentUtterances>
+    </mlIntents>
+    <mlIntents>
+        <developerName>How_do_I_apply_for_a_retail_permit</developerName>
+        <label>How do I apply for a retail permit?</label>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>I have a question about the permit application form.</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>What is the process for applying for a retail ABC permit?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Can you explain the steps to get a new liquor license?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Should I hire a lawyer to help with my license application?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>I need to know the requirements for a permit application.</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Is there a way to track the status of my permit application?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Where can I find the application form for a retail permit?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>What documents are needed when I apply for a license?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>How do I submit my application to the ABC commission?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>What are the eligibility requirements for an ABC license?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>What should I do if my application is incomplete or has an error?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Can I get my application processing expedited?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>How can I speed up my application review?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>What happens if my permit application is denied or rejected?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Is there an application deadline I need to be aware of?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>What are the financial requirements for obtaining a permit?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>How do I modify my application after submitting it?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Is there special training required to get a permit?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Where do I apply for a license for a new business location?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Tell me everything I need to know to apply for a permit.</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>How do I start the application process for a new license?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>I&apos;m trying to apply for a permit, please help.</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>What paperwork do I need for my application?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>How to apply for a liscence?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Can I make my application go faster?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>What&apos;s the first step in getting a permit?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Who do I talk to about getting a permit?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>What is the reason a permit would be denied?</utterance>
+        </mlIntentUtterances>
+    </mlIntents>
+    <mlIntents>
+        <developerName>How_many_ABC_stores_are_there_in_North_Carolina</developerName>
+        <label>How many ABC stores are there in North Carolina?</label>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>How many ABC stores are in North Carolina?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>What is the total number of ABC stores in the state?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Can you give me a count of all state-run liquor stores?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>I need a list of all ABC stores in NC.</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Where can I find a database of all ABC store locations?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>What&apos;s the tally of ABC stores currently operating?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Show me a complete list of stores.</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>How many state-controlled liquor stores exist here?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Can you tell me the exact store count for NC?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>I&apos;m looking for the total number of ABC stores.</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Is there a directory of all the ABC stores?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Provide the overall count of ABC stores.</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>How many local ABC boards have stores?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>What is the total store count for the state?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>I want to know the number of ABC locations.</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Can you list every ABC store in North Carolina?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>What&apos;s the current number of state-operated liquor stores?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Tell me the number of stores run by the ABC commission.</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Find all ABC stores in the state.</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>State-wide store count please.</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>How can I get a full list of the ABC stores?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Just give me the number of stores.</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>What&apos;s the grand total of NC liquor stores?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>A tally of all ABC stores is what I need.</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>How many ABC establishments are there?</utterance>
+        </mlIntentUtterances>
+    </mlIntents>
+    <mlIntents>
+        <developerName>Is_my_local_ABC_store_open_today</developerName>
+        <label>Is my local ABC store open today?</label>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>What are the operating hours for my local ABC store?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Can you tell me the store hours for today?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Is the ABC store near me open right now?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>What time does the ABC store close tonight?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>What time does the liquor store open in the morning?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Are the ABC stores open late in the evening?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>When does the nearest ABC store open and close?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>I need to know the store schedule for this week.</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>What are the hours for the ABC store?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Tell me the opening time for the local ABC store.</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>What is the closing time for the liquor store today?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Are there any early closures scheduled for the ABC store?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Can I find out if the store is still open?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>What are the standard business hours for ABC stores?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Will the store be open in the afternoon?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>How late can I go to the ABC store? &lt;br&gt; 17. I need to check the store&apos;s operating times.</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Please provide the hours of operation for my store.</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Is the ABC store open for business today?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Tell me about the store&apos;s opening and closing hours.</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>How late can I go to the ABC store?</utterance>
+        </mlIntentUtterances>
+    </mlIntents>
+    <mlIntents>
+        <developerName>What_are_the_requirements_for_obtaining_a_special_one_time_permit_for_an_event</developerName>
+        <label>What are the requirements for obtaining a special one-time permit for an event?</label>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Can a caterer apply for a temporary liquor permit?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>What are the rules for serving alcohol at a corporate event?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Can I serve liquor at my party in a private home?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>How do I get a permit for a one-time special event?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>What are the requirements for a temporary event permit?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Can I get a liquor license for a private party like a wedding?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>What is the process to apply for a one-time permit?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Do I need a licensed bartender for my event?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Are there different rules for indoor vs. outdoor events?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Can a non-profit organization get a temporary permit for a fundraiser?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>How much does a one-time permit cost?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Can I serve homemade beer or wine at my event with this permit?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>What is the application deadline for a special event permit?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Are there transportation restrictions for alcohol for my event?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>What if my event is postponed or cancelled, can I get a refund?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Are there venue restrictions for a one-time permit?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>How do I apply for a temporary permit for a festival?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>I&apos;m having a ticketed event, what kind of permit do I need?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Can I get an extension if my event date changes?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Are there training requirements for a temporary permit?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>What do I need to do to get a permit for a private reception?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>I need a permit for a single day.</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>How to get a permit for a fundraiser?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Getting a permit for my wedding.</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>What are the rules for a pop-up bar?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>One time permit cost.</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>How to get a temporary catering license for alcohol.</utterance>
+        </mlIntentUtterances>
+    </mlIntents>
+    <mlIntents>
+        <developerName>What_cities_or_counties_have_elected_to_allow_the_sales_of_alcohol</developerName>
+        <label>What cities or counties have elected to allow the sales of alcohol?</label>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>How can a county change its policy to allow alcohol sales?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Are there any &quot;dry&quot; counties where alcohol sales are banned?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>What are the local government regulations on alcohol?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>How do I know if my city has a ban on liquor sales?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Where are alcohol sales not allowed in North Carolina?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Where can I find a list of all municipalities and their alcohol laws?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Which cities and counties in NC allow alcohol sales?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Can you provide a list of &quot;wet&quot; counties?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>How can I find out the alcohol regulations for a specific zip code?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Is there a map showing where alcohol sales are legal?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Are there special rules for resorts or tourist areas?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>I need a list of all cities where I can legally buy alcohol.</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Tell me which counties prohibit the sale of alcohol.</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>List of cities that allow alcohol sales.</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>What are the zoning regulations for alcohol sales in my area?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Are the alcohol sales rules different on a college campus?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Can you list the cities where I can get a permit?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>I need to check the local ordinances for liquor sales.</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>How do I find out if a town allows for the sale of spirits?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Which jurisdictions have voted to be wet?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Can you show me the regulations for my city?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Is my county a dry county?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Where is it legal to sell alcohol?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Is it legal to sell liquor in my town?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>I&apos;m checking the legality of alcohol sales for a new business.</utterance>
+        </mlIntentUtterances>
+    </mlIntents>
+    <mlIntents>
+        <developerName>What_happens_if_I_change_the_businesses_ownership_or_relocate_my_business_to_a_n</developerName>
+        <label>What happens if I change the businesses ownership or relocate my business to a n</label>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Is there a grace period for operating after a move?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Can I continue to operate while the new location is being approved?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>What happens to the permit when a business is sold?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Do I need to re-apply if I change my business name?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>My new location is pending, can I still sell alcohol?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>How do I handle my ABC permit if I sell my business?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Is my ABC permit transferable to a new owner?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>What do I do if I move my business to a new location?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Do I need a new permit if I relocate to a different county?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>What is the process for changing the ownership on a permit?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Do I have to notify the ABC commission if I move?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>How do I update my permit after relocating my business?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Is my current permit valid if I change the business structure?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>What is the cost or fee to transfer a permit to a new owner?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Is an inspection required for the new location?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>How do I transfer a permit to a family member?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>How do I report a change of ownership for my license?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Tell me the rules for relocating a business with an ABC permit.</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>What forms are required for a business location change?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Is my license still valid after I sell the business?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>I&apos;m moving my shop, what about my permit?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>The business has a new owner, how do we handle the ABC license?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>What&apos;s the process to transfer a license?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>My business address changed.</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>I sold my bar, does the new owner get the permit?</utterance>
+        </mlIntentUtterances>
+    </mlIntents>
+    <mlIntents>
+        <developerName>What_happens_if_I_don_t_renew_my_ABC_permit_by_April_30th</developerName>
+        <label>What happens if I don&apos;t renew my ABC permit by April 30th?</label>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>What are the consequences of not renewing on time?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>How do I reactivate an invalid permit?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Is it too late to renew?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>How do I reinstate my permit if I missed the deadline?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>What is the fine for late renewal?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Will my license be suspended immediately after the deadline?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Is there a temporary permit I can get if I miss the renewal?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>What happens if I miss the April 30th permit renewal deadline?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Can I get a waiver for the late penalty?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Is there a grace period for renewal after April 30?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Can I still operate my business if my permit has expired?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>What are the penalties or late fees for missing the renewal date?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>My permit expired because I didn&apos;t renew by Apr 30, what now?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Is there an extension available for the renewal deadline?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>I missed the renewal, do I have to start a new application?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>What is the process for renewing after the grace period?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Does this deadline apply to seasonal permits as well?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>How do I pay a late fee for my permit renewal?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Is it illegal to sell alcohol with a permit that expired on April 30th?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>I missed the date, what is the next step to get my permit back?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Tell me about the penalties for not renewing by April 30th.</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>The renewal date passed, what can I do?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>I forgot to renew by April 30.</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Can I still renew my permit in May?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>My permit is expired, what do I do?</utterance>
+        </mlIntentUtterances>
+    </mlIntents>
+    <mlIntents>
+        <developerName>What_is_the_cost_of_obtaining_an_ABC_permit</developerName>
+        <label>What is the cost of obtaining an ABC permit?</label>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>How much does it cost to get an ABC permit?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>What are the fees associated with a new liquor license?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Can you provide a list of permit and license fees?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Is the application fee refundable if I am denied?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>What payment methods are accepted for permit fees?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>What is the total expense for obtaining a license?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Are there any late fees I should be aware of?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>I need to know the cost of a commercial permit.</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>What is the fee for a one-time event permit?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>How much is the renewal fee for a license?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Can you tell me the price of a new ABC license?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Where can I find the fee schedule for all permits?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Are the permit fees a one-time charge or annual?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Is there a difference in cost between permit types?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>How much should I budget for permit expenses?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>What is the fee for adding a new permit?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Will I have to pay a fee if my renewal is late?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>How do I pay for my license application?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Is there any way to get a refund on the permit fee?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>What is the schedule of costs for ABC permits?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Tell me the price for a permit.</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>How much money do I need for a license?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>What does the permit cost?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Is it expensive to get a permit?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Show me the payment info for permits.</utterance>
+        </mlIntentUtterances>
+    </mlIntents>
+    <mlIntents>
+        <developerName>What_is_the_minimum_age_to_work_in_establishments_serving_alcohol</developerName>
+        <label>What is the minimum age to work in establishments serving alcohol?</label>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Can a 16-year-old work in a restaurant that serves alcohol</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Can a 17-year-old work as a server in a restaurant with a bar</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Are there exemptions for family-owned businesses regarding employee age</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>What is the age limit for working at a private event with alcohol</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Can a 19-year-old legally serve beer and wine</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Age requirement to serve alcohol</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Can my 18 year old son work as a cashier</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>What is the penalty for having an underage employee serve alcohol</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Can someone under 21 work as a barback</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Can a minor work in a grocery store that sells beer and wine</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>What age do you have to be to pour beer and wine</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>What are the legal age requirements for a job in an ABC store</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>What is the minimum age to work in a bar or restaurant that serves alcohol</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>How old do you have to be to serve alcohol in North Carolina</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>What is the minimum age to be a bartender</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Can someone under 21 work as a cashier in a liquor store</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Are there restrictions for underage employees stocking shelves with alcohol</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Is service training required for minors working around alcohol</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Can a 17-year-old deliver alcohol for a catering company</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>What are the rules for an 18-year-old working in a liquor store</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Can a 20-year-old work as a bartender</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Please clarify the age limits for employment in establishments serving alcohol</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>How old to be a server</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>What&apos;s the age limit to work here</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>At what age can you bartend</utterance>
+        </mlIntentUtterances>
+    </mlIntents>
+    <mlIntents>
+        <developerName>What_is_the_turnaround_time_for_permit_applications</developerName>
+        <label>What is the turnaround time for permit applications?</label>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Does the turnaround time vary by permit type?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>How long does the entire permit process take?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>How many weeks does the application review usually take?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>What are the current wait times for permit issuance?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>I submitted my application, how long do I have to wait?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>When will my permit be approved?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>What is the average waiting time for an ABC permit?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>How long does it take to process a permit application?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>When can I expect to hear back about my application?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>What is the typical turnaround time from submission to approval?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>How long is the investigation and review period for an application?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Is there a way to check the status of my application processing?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>How soon will I get my permit after I apply?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>What&apos;s the timeline for getting a new retail permit?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>What is the current processing time for new licenses?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Can you give me an estimate of the permit waiting period?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>How long until my application is fully reviewed?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Is there a faster way to get through the application process?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>What is the expected timeframe for a decision on my permit?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Please estimate the application processing duration.</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Tell me about the waiting period for new applicants.</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>How long does it take to get a license?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>What&apos;s the wait time?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Turnaround time for a new application.</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>How can I track my application&apos;s progress?</utterance>
+        </mlIntentUtterances>
+    </mlIntents>
+    <mlIntents>
+        <developerName>What_kind_of_background_investigation_is_required</developerName>
+        <label>What kind of background investigation is required?</label>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>What if I have an outstanding warrant?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>What about an expunged or sealed record?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>What if I have a misdemeanor or pending charges?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Are my social media profiles reviewed during the investigation?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>What kind of criminal record would disqualify me from a permit?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Background check details please.</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Do I need to provide personal or character references?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>What does the background investigation for an ABC permit involve?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Does a DUI or DWI on my record affect my application?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Will a felony conviction prevent me from getting a license?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Do you check for bad credit or bankruptcy during the background check?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Are traffic violations considered in the background check?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Do all of my employees need to pass a background check?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>What happens if I fail the background investigation?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>How do I appeal a denial based on my background check?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Do you conduct a financial background check?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Will a past lawsuit or restraining order show up?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>I have a juvenile record, will that be a problem?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Does a tax evasion charge affect my eligibility?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Are there drug testing requirements?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>How do I provide proof of my background information?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>What will make me fail the background check?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Do you check my employment history?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Will my credit score affect my application?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>How far back does the background check go?</utterance>
+        </mlIntentUtterances>
+    </mlIntents>
+    <mlIntents>
+        <developerName>What_types_of_permits_does_the_NC_ABC_issue</developerName>
+        <label>What types of permits does the NC ABC issue?</label>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>What are the different types of ABC permits available?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Can you list the various categories of ABC licenses?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>I need to know the kinds of permits the ABC commission issues.</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>What type of permit do I need for a private club?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Is there a special permit for distilleries or breweries?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>How can I get a permit for a one-time festival or special event?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Do I need a wholesale permit to distribute alcohol?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Is there an import license for bringing in alcoholic beverages?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>What permit is required for a mobile bartending service?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Are there temporary or seasonal permits?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>I need information on permits for non-profit or charitable events.</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>What are the different commercial permit types?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Can you explain the permit categories for wineries?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Is homebrewing regulated with a permit?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>What kind of license do I need for online sales or delivery?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Show me a list of all permit and license types.</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>What are the various ABC license classifications?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Do I need a permit for a tasting room at my brewery?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>I&apos;m looking for information on all the permit options.</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>What different kinds of licenses does the ABC offer?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Tell me the kind of permits you have.</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>What permit does a restaurant need?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>I want to start a microbrewery, what liscense do I need?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Explain the categories of permits.</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Is there a permit for a food truck that sells alcohol?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>What license is for a bar?</utterance>
+        </mlIntentUtterances>
+    </mlIntents>
+    <mlIntents>
+        <developerName>Where_can_I_get_ink_fingerprint_cards_completed</developerName>
+        <label>Where can I get ink fingerprint cards completed?</label>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>How do I get my FBI fingerprint card completed?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Can I get my fingerprints taken at a UPS store?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>What happens if my fingerprint card is rejected or smudged?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>What documents do I need for my fingerprint appointment?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Where can I get ink fingerprint cards done for my permit?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Who is authorized to complete ink fingerprints for an ABC application?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Can the local sheriff&apos;s office or police department do my fingerprints?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Do you provide a list of locations for fingerprinting services?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>What do I need to bring with me to my fingerprinting appointment?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Who does fingerprinting for ABC permits?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>How much does it cost to get my fingerprints taken?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Do I need to be a resident to get fingerprinted in NC?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Can I use fingerprints from a previous background check?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>What is the turnaround time for fingerprint processing?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Are digital fingerprints acceptable, or must they be ink?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Does the post office, a bank, or a notary offer fingerprinting?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>I&apos;m in the military, where can I get my fingerprints done?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Do I need an appointment for fingerprinting?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Where are the approved fingerprinting agencies?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>What form of ID is required for fingerprinting?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Is fingerprinting required for a permit renewal?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>I need to find a mobile fingerprinting service.</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>I need ink fingerprints.</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Where to go for fingerprinting?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>The police station said they don&apos;t do public fingerprinting, where else can I go?</utterance>
+        </mlIntentUtterances>
+    </mlIntents>
+</MlDomain>

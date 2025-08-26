@@ -1,0 +1,2829 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MlDomain xmlns="http://soap.sforce.com/2006/04/metadata">
+    <description>The TaskBot Intent Set is a structured collection of defined scenarios that empower the chatbot to understand user needs and execute corresponding actions efficiently. Each intent represents a specific task or request, enabling the bot to deliver context-aware responses and streamline automated workflows across diverse use cases. This setup ensures the chatbot performs with precision and adaptability, enhancing user engagement through intelligent intent recognition and action execution.</description>
+    <label>TaskBotIntents</label>
+    <mlIntents>
+        <developerName>Are_ABC_stores_open_on_Sundays_or_holidays</developerName>
+        <label>Are ABC stores open on Sundays or holidays?</label>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>store Sunday</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>store religious holiday</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>store Easter</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>store holiday</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>store Columbus Day</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>store federal holiday</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>store Christmas</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>store Thanksgiving</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>store Veterans</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>store Memorial</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>store Labor</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>store Independence</utterance>
+        </mlIntentUtterances>
+    </mlIntents>
+    <mlIntents>
+        <developerName>Can_I_purchase_spirituous_liquor_in_grocery_stores_or_other_retail_outlets</developerName>
+        <label>Can I purchase spirituous liquor in grocery stores or other retail outlets?</label>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>bourbon Sams</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>bourbon convenience</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>spirituous grocery</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>whiskey Sams</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>whisky convenient</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>whisky grocery</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>tequila grocery</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>whiskey Costco</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>rum Costco</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>rum convenient</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>whiskey supermarket</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>spirits supermarket</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>liquor grocery</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>liquor convenience</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>liquor convenient</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>liquor supermarket</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>liquor Costco</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>liquor Sams</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>whisky Costco</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>spirituous convenience</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>gin convenient</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>spirituous convenient</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>spirituous supermarket</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>spirituous Costco</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>spirituous Sams</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>sprits grocery</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>spirits convenience</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>tequila Costco</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>rum convenience</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>spirits convenient</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>spirits Costco</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>spirits Sams</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>vodka grocery</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>vodka convenience</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>vodka convenient</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>vodka supermarket</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>vodka Costco</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>vodka Sams</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>tequila convenience</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>rum grocery</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>rum supermarket</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>rum Sams</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>whisky convenience</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>whiskey convenient</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>whisky supermarket</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>whisky Sams</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>whiskey grocery</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>whiskey convenience</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>tequila convenient</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>gin grocery</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>tequila supermarket</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>tequila Sams</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>gin convenience</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>gin supermarket</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>gin Costco</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>gin Sams</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>bourbon grocery</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>bourbon convenient</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>bourbon supermarket</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>bourbon Costco</utterance>
+        </mlIntentUtterances>
+    </mlIntents>
+    <mlIntents>
+        <developerName>How_can_I_add_additional_permits_when_I_already_hold_one_ABC_permit</developerName>
+        <label>How can I add additional permits when I already hold one ABC permit?</label>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>add additional permit</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>separate records multiple permits</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>temporary permit</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>refund additional permit denied</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>cost add permit</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>cancel permit</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>different permits location</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>permit transfer</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>fee additional permit</utterance>
+        </mlIntentUtterances>
+    </mlIntents>
+    <mlIntents>
+        <developerName>How_can_I_expedite_my_application_Duplicate_2_02_2_04</developerName>
+        <label>How can I expedite my application? (Duplicate 2.02 &amp; 2.04)</label>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>permit location</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>renewal payment declined</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>permit eligibility</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>renewal reminder</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>renew business name</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>renewal payment</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>license expiration</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>permit training</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>renewal grace period</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>permit track</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>permit modify</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>government approval</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>renewal processing</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>permit renew</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>license attorney</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>expedited processing</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>renewal manager</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>renewal ownership change</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>renewal approved</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>application steps</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>incomplete application</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>permit apply</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>renewal penalty late</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>license form</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>permit renew</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>permit lapse</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>license one-time</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>permit denial</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>license location</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>renew unpaid fine</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>license error</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>license application</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>renew forgot</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>renewal pending</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>license track</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>application timeline</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>renewal deadline</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>permit denied</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>sell renewal pending</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>permit status</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>permit expiration</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>application process</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>license modify</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>license denied</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>permit expires</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>renewal denied</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>application documents</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>application support</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>background check</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>permit application</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>permit attorney</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>permit deadline</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>permit error</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>permit expire</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>permit financial requirements</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>permit form</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>license denial</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>permit lawyer</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>permit one-time</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>permit reject</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>permit rejection</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>permit requirements</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>license submit</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>permit submit</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>update application</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>license apply</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>license deadline</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>license eligibility</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>license expire</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>license expires</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>license financial requirements</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>license lapse</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>license lawyer</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>license reject</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>license renew</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>license requirements</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>license status</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>license training</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>renewal lease change</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>renewal confirmed received</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>license renew</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>renewal approval</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>renewal documents</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>expedite renewal</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>renewal expired</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>renewal rejected</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>renewal fine late</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>renewal due date</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>renew temporarily closed</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>renewal location change</utterance>
+        </mlIntentUtterances>
+    </mlIntents>
+    <mlIntents>
+        <developerName>How_can_I_find_an_ABC_store_near_me</developerName>
+        <label>How can I find an ABC store near me?</label>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>store map</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>store nearby</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>directions to store</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>store zip code</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>store location</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>find store</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>find store</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>closest store</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>nearest store</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>directions store</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>show stores</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>city store</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>county store</utterance>
+        </mlIntentUtterances>
+    </mlIntents>
+    <mlIntents>
+        <developerName>How_can_I_place_a_special_order_for_a_product_not_available_in_my_local_ABC_stor</developerName>
+        <label>How can I place a special order for a product not available in my local ABC stor</label>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>exclusive</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>out-of-stock</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>specialty</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>rare</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>deposit special order</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>unavailable</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>special order approved</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>place special order</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>request unavailable</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>hard-to-find</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>international liquor</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>imported</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>barrel</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>limited-release</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>discontinued</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>reserve</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>pre-order</utterance>
+        </mlIntentUtterances>
+    </mlIntents>
+    <mlIntents>
+        <developerName>How_can_I_renew_my_existing_ABC_permit</developerName>
+        <label>How can I renew my existing ABC permit?</label>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>sell renewal pending</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>renewal denied</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>expedite renewal</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>renewal due date</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>renewal processing</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>renewal lease change</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>renewal grace period</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>renewal pending</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>renewal manager</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>renewal expired</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>renewal fine late</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>renewal payment declined</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>renewal reminder</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>renewal confirmed received</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>renewal deadline</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>renewal penalty late</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>renew temporarily closed</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>permit renew</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>license renew</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>renewal approval</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>renewal documents</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>renew business name</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>renewal rejected</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>renewal payment</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>renewal ownership change</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>renew forgot</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>renewal approved</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>renewal location change</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>renew unpaid fine</utterance>
+        </mlIntentUtterances>
+    </mlIntents>
+    <mlIntents>
+        <developerName>How_do_I_apply_for_a_Commercial_Permit</developerName>
+        <label>How do I apply for a Commercial Permit?</label>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>commercial permit insurance</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>appeal commercial permit denial</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>applying commercial permit</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>commercial permit age</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>commercial permit application expedite</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>application deadline commercial permit</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>commercial permit inspection</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>commercial permit location</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>commercial permit information</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>minimum size commercial permit</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>process commercial permit</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>commercial permit application</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>commercial permit online</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>commercial permit application fingerprint</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>commercial permit zoning</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>commercial permit background</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>commercial permit conviction</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>commercial permit non-profit</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>commercial permit fee</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>commercial permit cost</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>commercial permit restaurant</utterance>
+        </mlIntentUtterances>
+    </mlIntents>
+    <mlIntents>
+        <developerName>How_do_I_apply_for_a_permit_for_my_one_time_event</developerName>
+        <label>How do I apply for a permit for my one-time event?</label>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>homemade beer</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>delayed extension</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>nonprofit permit</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>homemade liquor</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>venue restrictions</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>temporary permit event</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>homemade wine</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>homemade alcohol</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>ticketed one-time</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>cater</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>indoor requirements</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>caterer</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>special one-time permit</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>apply one time permit</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>apply one-time permit</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>requirements one time permit</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>deadline event</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>temporary application</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>licensed bartender</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>event change temporary</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>sponsor permit</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>festival permit</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>pop-up permit</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>outdoor requirements</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>temporary training</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>multiple locations</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>transportation restrictions</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>transport restrictions</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>sell one-time permit</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>private event</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>public event</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>temporary late</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>private home</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>extension postponed</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>corporate event</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>wedding</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>fundraiser</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>cancelled refund</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>one-time fee</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>one-time cost</utterance>
+        </mlIntentUtterances>
+    </mlIntents>
+    <mlIntents>
+        <developerName>How_do_I_apply_for_a_retail_permit</developerName>
+        <label>How do I apply for a retail permit?</label>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>permit lapse</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>license application</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>license track</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>license financial requirements</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>application steps</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>application documents</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>permit modify</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>license rejection</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>license form</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>permit form</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>license error</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>application process</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>application support</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>application timeline</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>background check</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>expedited processing</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>permit error</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>government approval</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>incomplete application</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>permit application</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>permit apply</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>permit renew</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>license one-time</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>permit attorney</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>permit deadline</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>permit denial</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>permit denied</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>permit expiration</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>permit eligibility</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>permit expire</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>permit expires</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>permit financial requirements</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>permit lawyer</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>permit location</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>permit reject</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>permit one-time</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>permit rejection</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>permit requirements</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>license deadline</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>permit status</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>permit submit</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>permit track</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>permit training</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>update application</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>license apply</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>license attorney</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>license location</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>license denial</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>license denied</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>license eligibility</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>license expire</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>license expiration</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>license expires</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>license lapse</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>license lawyer</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>license modify</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>license reject</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>license renew</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>license requirements</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>license status</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>license submit</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>license training</utterance>
+        </mlIntentUtterances>
+    </mlIntents>
+    <mlIntents>
+        <developerName>How_many_ABC_stores_are_there_in_North_Carolina</developerName>
+        <label>How many ABC stores are there in North Carolina?</label>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>find stores</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>number of stores</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>count of stores</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>how many stores</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>state-run stores</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>where are stores</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>total stores</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>locate stores</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>tally of stores</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>store count</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>number of stores</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>list of stores</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>state-controlled stores</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>database of stores</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Display store list</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Show store locations</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Retrieve store count</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Show me the stores</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Give me a list of all stores</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>What’s the total number of stores?</utterance>
+        </mlIntentUtterances>
+    </mlIntents>
+    <mlIntents>
+        <developerName>Is_my_local_ABC_store_open_today</developerName>
+        <label>Is my local ABC store open today?</label>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>store schedule</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>store early</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>store closing</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>store morning</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>store time</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>store hours</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>store open</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>store close</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>store late</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>store evening</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>store night</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>store opening</utterance>
+        </mlIntentUtterances>
+    </mlIntents>
+    <mlIntents>
+        <developerName>What_are_the_requirements_for_obtaining_a_special_one_time_permit_for_an_event</developerName>
+        <label>What are the requirements for obtaining a special one-time permit for an event?</label>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>cater</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>special one-time permit</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>apply one time permit</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>apply one-time permit</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>requirements one time permit</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>deadline event</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>licensed bartender</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>nonprofit permit</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>delayed extension</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>event change temporary</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>temporary application</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>temporary permit event</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>sponsor permit</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>festival permit</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>pop-up permit</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>indoor requirements</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>outdoor requirements</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>temporary training</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>multiple locations</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>transportation restrictions</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>transport restrictions</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>sell one-time permit</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>private event</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>public event</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>temporary late</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>private home</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>caterer</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>ticketed one-time</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>extension postponed</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>corporate event</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>wedding</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>venue restrictions</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>homemade alcohol</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>homemade beer</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>homemade wine</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>homemade liquor</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>fundraiser</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>cancelled refund</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>one-time fee</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>one-time cost</utterance>
+        </mlIntentUtterances>
+    </mlIntents>
+    <mlIntents>
+        <developerName>What_cities_or_counties_have_elected_to_allow_the_sales_of_alcohol</developerName>
+        <label>What cities (or counties) have elected to allow the sales of alcohol?</label>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>dry county sales</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>list counties</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>list cities</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>city policy change</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>college regulations</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>zoning regulations</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>tourist</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>sales zip code</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>county regulations</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>list city</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>county policy change</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>resort</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>local government ban</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>city sale allowed</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>county sale allowed</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>city ban</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>county ban</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>list legal sales</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>city regulations</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>sales map</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>sales prohibited</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>list county</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>zoning sales</utterance>
+        </mlIntentUtterances>
+    </mlIntents>
+    <mlIntents>
+        <developerName>What_happens_if_I_change_the_businesses_ownership_or_relocate_my_business_to_a_n</developerName>
+        <label>What happens if I change the businesses ownership or relocate my business to a n</label>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>change structure</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>transfer cost</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>move different county</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>continue sell new location</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>change ownership</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>transfer different location</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>new location</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>valid relocate</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>move business</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>relocate business</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>transfer new owner</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>relocate notify</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>sold business</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>new owner</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>relocate inspection</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>operate new location permit transfer</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>update permit relocating</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>valid change ownership</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>transfer family member</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>relocate grace</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>change name</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>transfer fee</utterance>
+        </mlIntentUtterances>
+    </mlIntents>
+    <mlIntents>
+        <developerName>What_happens_if_I_don_t_renew_my_ABC_permit_by_April_30th</developerName>
+        <label>What happens if I don&apos;t renew my ABC permit by April 30th?</label>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>renew april 30</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>temporary renew</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>renew grace</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>renew date</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>renew extension</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>waiver renew</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>permit expired</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>renew apr 30</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>seasonal renew</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>invalid renew</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>renew deadline</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>deadline suspend</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>operate expiration</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>operate expired</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>late fee</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>late penalty</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>process renew</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>miss renew</utterance>
+        </mlIntentUtterances>
+    </mlIntents>
+    <mlIntents>
+        <developerName>What_is_the_cost_of_obtaining_an_ABC_permit</developerName>
+        <label>What is the cost of obtaining an ABC permit?</label>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>payment methods</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>fee refundable</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>permit cost</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>payment method</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>permit fees</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>license cost</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>permit fee</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>license fees</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>licenses cost</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>fee refund</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>permit expense</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>license expense</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>late fee</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>late fees</utterance>
+        </mlIntentUtterances>
+    </mlIntents>
+    <mlIntents>
+        <developerName>What_is_the_minimum_age_to_work_in_establishments_serving_alcohol</developerName>
+        <label>What is the minimum age to work in establishments serving alcohol?</label>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>age limit private event</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>19-year-old serve</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>minimum age work</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>age grocery store</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>under 21 serve</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>minimum age bartender</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>minimum age serve</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>server training</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>under 21 employed</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>18-year-old pour beer wine</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>minor delivery driver</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>20-year-old bartender</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>under 21 serve restaurant</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>17-year-old brewery</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>19-year-old serve</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>penalty underage employee</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>service training for minors</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>penalty underage worker</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>penalty minor</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>minor work</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>under 18 cashier</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>16-year-old work in bar</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>underage stock shelves</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>restrictions underage employees</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>17-year-old deliver</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>17-year-old catering</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>legal age job requirements</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>cashier 21</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>minor work gas station</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>under 21 barback</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>exemption family-owned business</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>16-year-old work restaurant</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>18-year-old work liquor store</utterance>
+        </mlIntentUtterances>
+    </mlIntents>
+    <mlIntents>
+        <developerName>What_is_the_turnaround_time_for_permit_applications</developerName>
+        <label>What is the turnaround time for permit applications?</label>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>application investigation</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>waiting time</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>application review</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>application processing time</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>permit application time</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>turnaround time</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>application soon</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>permit soon</utterance>
+        </mlIntentUtterances>
+    </mlIntents>
+    <mlIntents>
+        <developerName>What_kind_of_background_investigation_is_required</developerName>
+        <label>What kind of background investigation is required?</label>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>character reference</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>police report</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>traffic violation</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>bad credit</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>sealed record</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>background identification</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>criminal record</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>juvenile record</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>lawsuit</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>background required</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>background fail</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>DWI</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>background drug</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>background investigation</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>background verification</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>background process</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>arrest record</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>personal reference</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>expunged record</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>pending charges</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>bankruptcy</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>bankrupt</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>proof background</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>restraining order</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>foreign documents</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>background employee</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>drug testing</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>background social media</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>tax evasion</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>misdemeanor background</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>background denied</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>offenses background</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>background financial</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>probation</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>social security number</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>felony background</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>DUI</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>background dispute</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>background appeal</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>background employment</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>outstanding warrant</utterance>
+        </mlIntentUtterances>
+    </mlIntents>
+    <mlIntents>
+        <developerName>What_types_of_permits_does_the_NCABC_issue</developerName>
+        <label>What types of permits does the NCABC issue?</label>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>import permit</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>permit types</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>types permit</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>types permits</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>type permit</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>private party</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>private party</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>club membership</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>tasting room</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>distilleries</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>wholesale permit</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>craft beer</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>microbrew</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>non-profit</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>special event</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>microbrewing</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>kinds permits</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>festival</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>delivery</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>market</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>online permit</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>categories permit</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>temporary permit</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>mobile bartending</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>seasonal permit</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>brewery permit</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>nonprofit</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>charitable</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>type licenses</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>winery</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>wineries</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>kind permits</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>homebrewing</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>commercial permit</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>permit kinds</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>kinds permit</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>license categories</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>kind permit</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>permit categories</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>kinds licenses</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>categories license</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>categories permits</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>category permit</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>category permits</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>license types</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>types license</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>types licenses</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>type license</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>wholesale license</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>category license</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>import license</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>online license</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>temporary license</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>mobile bartending</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>seasonal license</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>brewery license</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>commercial license</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>license kinds</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>kinds license</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>kind license</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>kind licenses</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>categories licenses</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>category licenses</utterance>
+        </mlIntentUtterances>
+    </mlIntents>
+    <mlIntents>
+        <developerName>Where_can_I_get_ink_fingerprint_cards_completed</developerName>
+        <label>Where can I get ink fingerprint cards completed?</label>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>fingerprint temporary</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>bank fingerprint</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>list fingerprint</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>fingerprint appointment</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>fingerprint card</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>fingerprint cards</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>ink fingerprint</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>ink fingerprints</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>ink digital fingerprints</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>turnaround time fingerprint processing</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>fingerprint fee</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>fingerprint cost</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>notary fingerprint</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>expedited fingerprint</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>agencies fingerprint</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>fingerprint required</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>fingerprint witness</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>where fingerprint</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>where fingerprints</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>fingerprint documents</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>military fingerprint</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>fingerprint permit</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>fingerprint locations</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>FBI fingerprint</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>agency fingerprint</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>post office fingerprint</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>mobile fingerprint</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>fingerprint sheriff</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>fingerprint police</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>previous fingerprint</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>fingerprint UPS</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>fingerprint smudge</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>fingerprint color</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>fingerprint rejected</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>fingerprint renewal</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>fingerprint ID</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>fingerprint identification</utterance>
+        </mlIntentUtterances>
+    </mlIntents>
+</MlDomain>

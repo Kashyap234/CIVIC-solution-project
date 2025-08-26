@@ -1,0 +1,720 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MlDomain xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label>balaintentset</label>
+    <mlIntents>
+        <developerName>Are_ABC_stores_open_on_Sundays_or_holidays</developerName>
+        <label>Are ABC stores open on Sundays or holidays?</label>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Store open during holidays?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Can I shop on a public holiday?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Holiday hours for ABC?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>ABC holiday hours</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Are stores open on Sundays?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Store open on Thanksgiving?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Can I go on Sunday?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Store open on Labor Day?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Store open on Easter?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Is store closed for Christmas?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Are stores open on Memorial Day?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Holiday opening schedule</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Sunday working hours</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Federal holiday hours for store</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>ABC store schedule for Veterans Day?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Are stores open on Independence Day?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Store closed on holidays?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Store hours on Sunday and holidays</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Store available on religious holidays?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>ABC store closed on weekends?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Open on long weekends?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Are they open for special holidays?</utterance>
+        </mlIntentUtterances>
+    </mlIntents>
+    <mlIntents>
+        <developerName>Can_I_purchase_spirituous_liquor_in_grocery_stores_or_other_retail_outlets</developerName>
+        <label>Can I purchase spirituous liquor in grocery stores or other retail outlets?</label>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Retail alcohol access?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Can I buy liquor at Walmart?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Grocery store selling whiskey?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>CVS liquor sales permitted?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Purchase liquor at Target?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>ABC-only liquor policy?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Buy spirits at 7-Eleven?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Wholesale liquor buying options?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Liquor available at Costco?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Can I get spirits at a gas station?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Grocery store liquor rules?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Buy vodka at supermarket?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Can I get rum at a store?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Is gin sold in convenience stores?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Can you purchase bourbon at Sam’s Club?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Are spirits available outside ABC stores?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Retail outlet selling whisky?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Buy tequila at a grocery outlet?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Non-ABC liquor sales?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Supermarket liquor sale allowed?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Alcohol sold in non-ABC locations?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Walgreens sells spirits?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Where can I buy spirits besides ABC?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Liquor purchase alternatives to ABC?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Grocery store liquor restrictions?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Retail alcohol sales allowed?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Is vodka sold at Kroger?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Are spirits at Trader Joe’s?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Liquor sales in regular stores?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Local market liquor availability?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Can I get alcohol at BJ’s?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Liquor in general stores?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Sam’s Club alcohol rules?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Target alcohol shopping?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Costco spirit laws?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Can I buy liquor at Food Lion?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Is beer the only alcohol in groceries?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Do grocery stores sell hard liquor?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Where can I find gin outside ABC?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Retail stores with liquor license?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Supermarket selling bourbon?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Are ABC stores the only option?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Why liquor isn’t sold in groceries?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Can I get whiskey outside ABC?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>ABC monopoly on spirits?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Public store alcohol policy?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Sell spirits outside government stores?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Why can’t I find rum in groceries?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Other places to get vodka?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Law on buying liquor outside ABC?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Costco whiskey availability?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Buy tequila at drugstores?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Can I buy spirits at Sam’s?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Private stores selling liquor?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Alcohol availability outside ABC?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Spirituous alcohol in convenience stores?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Alcohol distribution by non-ABC outlets?</utterance>
+        </mlIntentUtterances>
+    </mlIntents>
+    <mlIntents>
+        <developerName>How_can_I_find_an_ABC_store_near_me</developerName>
+        <label>How can I find an ABC store near me?</label>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Search store by zip</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>ABC location near my address</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Where is the nearest ABC store?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Find the closest liquor store</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Locate an ABC store nearby</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Store near my zip code</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>How to find a nearby ABC store?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Show stores near me</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Search store by city</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Find ABC store in my area</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Map of nearby ABC stores</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Closest store open now</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Store directions</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Store locator</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Where’s my local ABC?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Find liquor store around me</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Search store by county</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Store finder tool</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Nearby alcohol store</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>What store is close to me?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Locate ABC outlet</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Which store is closest?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>I need directions to a liquor store</utterance>
+        </mlIntentUtterances>
+    </mlIntents>
+    <mlIntents>
+        <developerName>How_can_I_place_a_special_order_for_a_product_not_available_in_my_local_ABC_stor</developerName>
+        <label>How can I place a special order for a product not available in my local ABC stor</label>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Order rare bourbon?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>ABC rare inventory request?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Can I order exclusive items?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Can I get a discontinued spirit?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>How to get unavailable gin?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>How to request unavailable liquor?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>How do special orders work?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Special order for rare liquor?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>How can I pre-order a bottle?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Request out-of-stock items?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Get a hard-to-find bottle?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Imported whiskey request?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Limited release liquor order?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>How to reserve a product?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Order unavailable item?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>How to buy international liquor?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Submit a special liquor request?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Special liquor buying process?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Deposit required for special orders?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>What’s the process for rare items?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Can I get a specialty bottle?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Request unavailable tequila?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Request imported rum?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Buy custom barrel?</utterance>
+        </mlIntentUtterances>
+    </mlIntents>
+    <mlIntents>
+        <developerName>How_many_ABC_stores_are_there_in_North_Carolina</developerName>
+        <label>How many ABC stores are there in North Carolina?</label>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>How many ABC stores are there in NC?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Total number of ABC stores in the state</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Count of ABC stores in North Carolina</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>What’s the total store count?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Number of ABC locations in NC</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Total stores currently open</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>How many stores are operational?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Database of ABC stores</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>ABC store list in NC</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Where are the ABC stores?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>List all ABC stores</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Store count in North Carolina</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Total state-run liquor stores</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Tally of all stores</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>How many government liquor stores?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>NC liquor store distribution</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>All NC ABC stores</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Complete list of stores</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Map of all stores in NC</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>State-operated store count</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Total licensed liquor stores in NC</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>How many official liquor stores?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>ABC store availability in NC</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Full number of alcohol outlets</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Store data NC</utterance>
+        </mlIntentUtterances>
+    </mlIntents>
+    <mlIntents>
+        <developerName>Is_my_local_ABC_store_open_today</developerName>
+        <label>Is my local ABC store open today?</label>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Store open this morning?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Can I visit the store today?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>What time does the store open?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Are ABC stores open today?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Is my nearby store open?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Store hours today</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Store closing time</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Store opening and closing</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Today&apos;s store schedule</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>When does the ABC store open?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Store business hours</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Store timing</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Store late hours today?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Is the store closed now?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Evening store hours?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Morning store hours?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Store open in afternoon?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Weekend hours for store?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Holiday schedule for store?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Store today status</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Store schedule right now?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>en_US</language>
+            <utterance>Is the store currently open?</utterance>
+        </mlIntentUtterances>
+    </mlIntents>
+</MlDomain>
